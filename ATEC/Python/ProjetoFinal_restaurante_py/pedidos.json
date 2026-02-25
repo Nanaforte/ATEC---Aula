@@ -1,0 +1,17 @@
+[
+    {
+        "cliente": "julia",
+        "prato": "Cheesecake de Morango ",
+        "quantidade": "2"
+    },
+    {
+        "cliente": "ioio",
+        "prato": "aaaaa",
+        "quantidade": "6"
+    },
+    {
+        "cliente": "bbbbbbbb",
+        "prato": "Arroz de pato",
+        "quantidade": "2"
+    }
+]
